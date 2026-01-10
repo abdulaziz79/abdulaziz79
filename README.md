@@ -16,69 +16,6 @@ I enjoy turning ideas into real products that solve problems and make life easie
 
 🤝 Open to collaboration on impactful products and SaaS projects
 
-🛠️ Tech Stack
-
-Frontend
-
-React.js
-
-Next.js
-
-React Native
-
-TypeScript
-
-Tailwind CSS
-
-HTML, CSS
-
-Backend
-
-Node.js
-
-Express.js
-
-NestJS
-
-REST APIs
-
-Prisma
-
-Databases
-
-MongoDB
-
-Supabase
-
-MySQL
-
-Tools & Workflow
-
-Git & GitHub
-
-Linux
-
-Agile / Scrum
-
-Vercel, Render
-
-🚀 Featured Projects
-
-Portfolio Builder
-Platform to create professional portfolios, restaurant websites, and resumes with minimal steps.
-Tech: Next.js, Supabase, Prisma, Tailwind CSS
-
-Takyeem (SaaS Platform)
-Assessment management system with multi-role access, live assessments, reporting, and integrations.
-Tech: Next.js, Node.js, Prisma, Supabase
-
-Talent M – Demtus
-Performance management mobile app with goals, tasks, ratings, and collaboration features.
-Tech: React Native, Frappe
-
-Embassy of Lebanon in Saudi Arabia
-Contributed to the official embassy platform, improving web features and service delivery.
-Tech: React.js, Frappe
 
 🌍 Links
 
